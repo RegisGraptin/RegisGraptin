@@ -18,9 +18,9 @@ If you want to keep in touch, feel free to contact me via [linkedin](https://fr.
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://leetcode.com/rere-rere/">
         <img src="./images/leetcode.svg" alt="Leetcode logo" style="max-width: 100%;" width="40" height="30" align="middle" />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://nodeguardians.io/character/76de315f8f00">
         <img src="./images/nodeguardians.svg" alt="Node Guardians logo" style="max-width: 100%;" width="40" height="30" align="middle" />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
 </p>
 
