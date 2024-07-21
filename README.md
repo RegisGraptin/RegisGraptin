@@ -1,8 +1,4 @@
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Roboto', sans-serif;">
-
 👋 Hey, I'm Régis
 -------------
 
@@ -92,6 +88,3 @@ ETHGlobal Paris - [Flora App](https://ethglobal.com/showcase/flora-app-nqkw0)
         <img src="./images/nodeguardians.svg" alt="Node Guardians logo" width="20" height="20" align="middle" />
     </a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-</div>
