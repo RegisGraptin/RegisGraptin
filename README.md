@@ -1,8 +1,12 @@
 
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Roboto', sans-serif;">
+
 👋 Hey, I'm Régis
 -------------
 
-<samp>French 🇫🇷 Software Engineer, specializing in Deep Learning and Web3 technologies, thinking and building the world of tomorrow.</samp>
+French 🇫🇷 Software Engineer, specializing in Deep Learning and Web3 technologies, thinking and building the world of tomorrow.
 
 -------------
 
@@ -89,3 +93,5 @@ ETHGlobal Paris - [Flora App](https://ethglobal.com/showcase/flora-app-nqkw0)
     </a>&nbsp;&nbsp;&nbsp;
 </p>
 
+
+</div>
