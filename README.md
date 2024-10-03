@@ -39,6 +39,9 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 </summary>
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
+ETHGlobal Singapore - [Unify Finance](https://ethglobal.com/showcase/unify-finance-9dipd)
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 Superhack 2024 - [Grant It](https://ethglobal.com/showcase/grant-it-h3sjo)
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
