@@ -38,6 +38,8 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2024
 </summary>
 
+- ETH KL - [Stake & Run](https://devfolio.co/projects/start-and-run-8aed)
+
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 ETHGlobal Singapore - [Unify Finance](https://ethglobal.com/showcase/unify-finance-9dipd)
 
