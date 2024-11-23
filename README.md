@@ -38,7 +38,14 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2024
 </summary>
 
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
+ETHGlobal Bangkok - [PourItOnChain](https://ethglobal.com/showcase/pouritonchain-u5f5x)
+
+- HackSecret 4 - [Private Acknowledge Receipt on Chain](https://dorahacks.io/buidl/16855)
+
 - ETH KL - [Stake & Run](https://devfolio.co/projects/start-and-run-8aed)
+
+- Level Up Mini-Hack - [CipherScroll](https://github.com/RegisGraptin/CipherScroll)
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 ETHGlobal Singapore - [Unify Finance](https://ethglobal.com/showcase/unify-finance-9dipd)
@@ -79,6 +86,17 @@ ETHGlobal Paris - [Flora App](https://ethglobal.com/showcase/flora-app-nqkw0)
 </details>
 
 -------------
+
+
+
+### 📝 Articles
+
+
+- 2024 - [Building Privacy-Preserving Voting Systems on Ethereum with Semaphore](https://medium.com/@regis-graptin/building-privacy-preserving-voting-systems-on-ethereum-with-semaphore-ce30ea5dcf6f)
+
+
+-------------
+
 
 ### 🌐 Online presence 
 
