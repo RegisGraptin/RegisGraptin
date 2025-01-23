@@ -23,7 +23,7 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 
 ### 📚 Certifications
 
-
+- 2024 - [Uniswap Hook Incubator - Atrium Academy](https://opensea.io/assets/matic/0x130fa2dca456c2166c5505693dc1535040705dc2/67)
 - 2023 - [Hugging Face - Deep Learning Reinforcement Learning Course](https://media.licdn.com/dms/image/D4E22AQGSGp2XPTOYrw/feedshare-shrink_800/0/1679758234495?e=1724284800&v=beta&t=pQYKcwpb9bVNLUy4_E34Vc307JO5zg1jQKXR-PHC9dg)
 - 2023 - [Interchain Developer Academy](https://badgr.com/public/assertions/G5fClgwPTC62P6wD3K8hpQ)
 
@@ -35,8 +35,18 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 
 <details open>
 <summary>
+2025
+</summary>
+
+- Starknet Winter Hackathon - [Seth Lottery](https://app.buidlbox.io/projects/sethspin?path=projects%2Fsethspin)
+
+</details>
+<details open>
+<summary>
 2024
 </summary>
+
+- Uniswap Hook Incubator - Cohort 3 - [Autopilot Hook](https://projects.atrium.academy/Autopilot-Hook-1555f0444abe817785f4dafc10e4db5d) 
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 ETHGlobal Bangkok - [PourItOnChain](https://ethglobal.com/showcase/pouritonchain-u5f5x)
