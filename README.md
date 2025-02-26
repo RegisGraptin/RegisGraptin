@@ -38,6 +38,10 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2025
 </summary>
 
+
+- <picture><img src="./images/zama.png" alt="ETH Global icon" width="12"></picture> 
+Zama Bounty Program Season 7 - [Confidential Single-Price Auction](https://github.com/RegisGraptin/ConfidentialAuction)
+
 - Starknet Winter Hackathon - [Seth Lottery](https://app.buidlbox.io/projects/sethspin?path=projects%2Fsethspin)
 
 </details>
