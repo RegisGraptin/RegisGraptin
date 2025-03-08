@@ -45,7 +45,7 @@ Zama Bounty Program Season 7 - [Confidential Single-Price Auction](https://githu
 - Starknet Winter Hackathon - [Seth Lottery](https://app.buidlbox.io/projects/sethspin?path=projects%2Fsethspin)
 
 </details>
-<details open>
+<details>
 <summary>
 2024
 </summary>
