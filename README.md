@@ -2,7 +2,7 @@
 👋 Hey, I'm Régis
 -------------
 
-French 🇫🇷 Software Engineer, specializing in Deep Learning and Web3 technologies, thinking and building the world of tomorrow.
+French 🇫🇷 Software Engineer, specializing in Blockchain technologies, thinking and building the world of tomorrow.
 
 -------------
 
@@ -38,6 +38,7 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2025
 </summary>
 
+- Scroll Open - [VaultFolio](https://github.com/RegisGraptin/VaultFolio)
 
 - <picture><img src="./images/zama.png" alt="ETH Global icon" width="12"></picture> 
 Zama Bounty Program Season 7 - [Confidential Single-Price Auction](https://github.com/RegisGraptin/ConfidentialAuction)
@@ -100,15 +101,6 @@ ETHGlobal Paris - [Flora App](https://ethglobal.com/showcase/flora-app-nqkw0)
 
 
 </details>
-
--------------
-
-
-
-### 📝 Articles
-
-
-- 2024 - [Building Privacy-Preserving Voting Systems on Ethereum with Semaphore](https://medium.com/@regis-graptin/building-privacy-preserving-voting-systems-on-ethereum-with-semaphore-ce30ea5dcf6f)
 
 
 -------------
