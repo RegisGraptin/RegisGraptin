@@ -38,6 +38,8 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2025
 </summary>
 
+- ETHDam III - [ZK-Pal](https://github.com/RegisGraptin/zk-pal)
+
 - Scroll Open - [VaultFolio](https://github.com/RegisGraptin/VaultFolio)
 
 - <picture><img src="./images/zama.png" alt="ETH Global icon" width="12"></picture> 
