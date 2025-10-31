@@ -38,7 +38,17 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 2025
 </summary>
 
-- ETHDam III - [ZK-Pal](https://github.com/RegisGraptin/zk-pal)
+- <picture><img src="./images/eth_rome.svg" alt="ETHRome icon" width="12"></picture>
+ETHRome - [MyDocs](https://taikai.network/ethrome/hackathons/2025/projects/cmgwawcpq01pd12kk2j59udvv/idea)
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
+ETHGlobal Prague - [TrustGiveaway](https://ethglobal.com/showcase/trustgiveaway-vpego)
+
+- <picture><img src="./images/zama.png" alt="ETH Global icon" width="12"></picture> 
+Zama Bounty Program Season 8 - [Private Polling & Benchmark Protocol](https://github.com/RegisGraptin/trust-poll)
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_dam_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_dam_white.png"><img alt="ETHDam icon" width="12"></picture>
+ETHDam III - [ZK-Pal](https://github.com/RegisGraptin/zk-pal)
 
 - Scroll Open - [VaultFolio](https://github.com/RegisGraptin/VaultFolio)
 
@@ -77,7 +87,8 @@ ETHGlobal Brussels - [Meal Review](https://ethglobal.com/showcase/meal-review-1f
 
 - iBuild Online Hackathon - [RouteGuard](https://taikai.network/iExec/hackathons/ibuild/projects/clvhv2b9v059f3r01e0f0jfuu/idea)
 
-- ETHDam - [B-Hook](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/clux971fz00nuvq01mh9g5phl/idea)
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_dam_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_dam_white.png"><img alt="ETHDam icon" width="12"></picture>
+ETHDam - [B-Hook](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/clux971fz00nuvq01mh9g5phl/idea)
 
 - ETH Oxford - [Health Book](https://taikai.network/home-dao/hackathons/ethoxford/projects/cltkcxi1404gdy5016nv6jtnh/idea)
 
@@ -92,7 +103,8 @@ ETHGlobal Brussels - [Meal Review](https://ethglobal.com/showcase/meal-review-1f
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 ETHGlobal Istanbul - [Safety First](https://ethglobal.com/showcase/safety-first-98km1)
 
-- ETHRome - [Quo-Roma](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clnfs4sq800bzy90134ygt0rz/idea)
+- <picture><img src="./images/eth_rome.svg" alt="ETHRome icon" width="12"></picture>
+ETHRome - [Quo-Roma](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clnfs4sq800bzy90134ygt0rz/idea)
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.png"><img alt="ETH Global icon" width="12"></picture>
 ETHGlobal Paris - [Flora App](https://ethglobal.com/showcase/flora-app-nqkw0)
