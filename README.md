@@ -8,9 +8,9 @@ French 🇫🇷 Software Engineer, specializing in Blockchain technologies, thin
 
 ### ✨ About Me
 
-I primarily develop in Python and use Solidity and TypeScript for web3 projects. I am driven by a passion for continuous learning and innovation, particularly in blockchain and web3 technologies. I thrive in collaborative environments, solving complex problems and creating cutting-edge solutions. I actively participate in web3 hackathons, explore new technologies, and contribute to open-source projects. I am keen on making a positive impact through my work, with a strong interest in privacy challenges in our increasingly connected world and interest in emerging technologies as Fully Homomorphic Encryption (FHE).
+Driven by a passion for continuous learning and innovation, particularly in blockchain and web3 technologies. I thrive in collaborative environments, solving complex problems and creating cutting-edge solutions. I actively participate in web3 hackathons, explore new technologies, and contribute to open-source projects. I am keen on making a positive impact through my work, with a strong interest in privacy challenges in our increasingly connected world and interest in emerging technologies as Fully Homomorphic Encryption (FHE).
 
-Feel free to explore my repositories and reach out if you’re interested in discussing technology trends, collaborative projects, or potential job opportunities. You can reach me direclty on [Linkedin](https://linkedin.com/in/regis-graptin/).
+Feel free to explore my repositories and reach out if you’re interested in discussing technology trends or potential collaboration. You can reach me direclty on [Linkedin](https://linkedin.com/in/regis-graptin/).
 
 -------------
 
@@ -21,19 +21,23 @@ Feel free to explore my repositories and reach out if you’re interested in dis
 
 -------------
 
-### 📚 Certifications
-
-- 2024 - [Uniswap Hook Incubator - Atrium Academy](https://opensea.io/assets/matic/0x130fa2dca456c2166c5505693dc1535040705dc2/67)
-- 2023 - [Hugging Face - Deep Learning Reinforcement Learning Course](https://media.licdn.com/dms/image/D4E22AQGSGp2XPTOYrw/feedshare-shrink_800/0/1679758234495?e=1724284800&v=beta&t=pQYKcwpb9bVNLUy4_E34Vc307JO5zg1jQKXR-PHC9dg)
-- 2023 - [Interchain Developer Academy](https://badgr.com/public/assertions/G5fClgwPTC62P6wD3K8hpQ)
-
-
--------------
-
 ### 💻 Hackathons
 
+<details>
 
-<details open>
+<summary>
+2026
+</summary>
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.svg"><img alt="ETH Global icon" width="12"></picture>
+ETHGlobal Cannes - [MarketPay](https://ethglobal.com/showcase/marketpay-j4buj)
+
+- <picture><source media="(prefers-color-scheme: dark)" srcset="./images/eth_global_icon_black.svg"><source media="(prefers-color-scheme: light)" srcset="./images/eth_global_icon_white.svg"><img alt="ETH Global icon" width="12"></picture>
+HackMoney - [Cipher Lend](https://ethglobal.com/showcase/cipher-lend-5cn2m)
+
+</details>
+<details>
+
 <summary>
 2025
 </summary>
